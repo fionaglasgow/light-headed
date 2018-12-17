@@ -1,3 +1,5 @@
+![cat]
+
 # light-headed
 Learning about GitHub December 18, 2018
 
@@ -20,7 +22,7 @@ This is some body text
 3. Item 3
 1. Item 4
 
-This is a [link] (reddit.com)
+This is a [link](reddit.com)
 
 *italics* _italics_
 
