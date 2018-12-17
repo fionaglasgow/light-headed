@@ -3,7 +3,7 @@
 # light-headed
 Learning about GitHub December 18, 2018
 
-[Testing Page](testing.html)
+[BeepBoop](testing.html)
 
 # This is a Header
 
